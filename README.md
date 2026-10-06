@@ -1,7 +1,7 @@
 # Dart Fundamentals Exercises
 
 **Name:** Shiel Dawn Amon Alojipan
-**Section:** [Insert Your Section]
+**Section:** [BSIT 3.2]
 
 **Scenario:** 
 A store inventory calculator that evaluates product stock value, packaging distribution in boxes, and restock status.
