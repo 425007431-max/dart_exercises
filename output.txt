@@ -1,0 +1,3 @@
+Product: Headphones (0.5 kg) | On sale: true
+Total Value: $4050 | Restock needed? false
+Inventory: 3 full boxes, 9 loose items
